@@ -5,6 +5,8 @@ The code creates a simple chat application where one instance runs as a server a
 Both the server and the client use a graphical user interface built with Swing. The GUIs include a text area to display messages, a text field to type messages, and a “send” button to dispatch messages.
 ## Communication Mechanism:
 The classes use Socket, ServerSocket, DataInputStream, and DataOutputStream for network communication. The server listens for connections and the client connects to the server on the local host IP address.
+![Screenshot 2025-04-11 164809](https://github.com/user-attachments/assets/fb76b241-1947-4723-b38a-d2a5bd88232e)
+
 
 # ChatServer.java
 ## Class Declaration and Components:

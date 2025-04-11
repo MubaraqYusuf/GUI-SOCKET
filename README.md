@@ -49,4 +49,6 @@ Similar to the server, the network operations are wrapped in try-catch blocks, b
 
 
 # Conclusion
+This Java code creates a basic chat application using Swing for the GUI and socket programming for network communication. The server waits for a client to connect and exchanges messages with the client. Both applications run in their own GUI windows, allowing users to send messages interactively. This foundational project is a great candidate for GitHub as a learning tool for networking and GUI programming in Java.
+
 

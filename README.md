@@ -1,3 +1,5 @@
-# GUI-SOCKET
-# GUI-SOCKET
-# GUI-SOCKET
+# Overview 
+# ChatServer.java
+# ChatClient.java
+# Conclusion
+
